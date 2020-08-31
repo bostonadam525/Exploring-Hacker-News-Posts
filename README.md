@@ -1,4 +1,4 @@
-# Exploring-Hacker-News-Posts
+# Exploring-Hacker-News-Posts by Adam M. Lang
 Data Analysis Project using Kaggle dataset
 
 
